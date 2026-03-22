@@ -8,13 +8,22 @@ I'm a Health Information Technology & Analytics student with a passion for full-
 ## 🔧 Tech Stack
 
 **Languages:**  
-Python, SQL, JavaScript, HTML, CSS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frameworks & Tools:**  
-FastAPI, Swagger UI, Git/GitHub, Excel (Pivot Tables, Dashboards), VS Code
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Swagger UI](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 **Databases:**  
-MySQL
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -58,5 +67,12 @@ Demonstrates frontend structure, semantic HTML, and clean CSS styling.
 
 ## 📫 Connect with Me
 **Email:** taradstevens@hotmail.com
+
+---
+
+## 📄 Resume
+[View My Resume](./Tara_Stevens_IT_Resume.pdf)
+
+---
 
 Thanks for stopping by and feel free to explore my work!
