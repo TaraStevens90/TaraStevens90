@@ -1,7 +1,7 @@
 # Hi, I'm Tara 👋  
-### Full‑Stack Developer | Backend Engineering | Front‑End Development | Database Design | API Integration & Data Analytics
+### Full‑Stack Developer | Backend Engineering | Frontend Development | Database Design | API Integration & Data Analytics
 
-I'm a Data Management & Analytics and Health Information Technology & Analytics student pursuing dual associate degrees with a passion for full‑stack development. My strengths include backend engineering, front-end development, SQL database design, and clear technical communication. I build clean, well-documented systems from APIs to dashboards.  I'm currently seeking full-stack developer internships, ideally within a healthcare-focused startup.
+I'm a Data Management & Analytics and Health Information Technology & Analytics student pursuing dual associate degrees with a passion for full‑stack development. My strengths include backend engineering, frontend development, SQL database design, and clear technical communication. I build clean, well-documented systems from APIs to dashboards.  I'm currently seeking full-stack developer internships, ideally within a healthcare-focused startup.
 
 ---
 
